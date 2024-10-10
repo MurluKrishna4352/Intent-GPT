@@ -34,37 +34,6 @@
 
 ---
 
-## 🏗️ Installation
-
-To run Intent GPT locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/intent-gpt.git
-   cd intent-gpt
-   ```
-
-2. **Set up a virtual environment:**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # For Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application:**
-
-   ```bash
-   python app.py
-   ```
-
----
 
 ## 🧪 Usage
 
@@ -97,11 +66,6 @@ The model will provide accurate responses based on the financial data it has bee
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🏗️ Contributing
 
